@@ -28,7 +28,7 @@ Tools and Technologies🔧
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow">
 <br><br>
 <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=red">
-<img src="https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali-linux&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/OS-Kali&nbsp;Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=red">
 <br><br>
