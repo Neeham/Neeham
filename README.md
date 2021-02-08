@@ -9,18 +9,18 @@
 </p>
 
 <h2 align="center">Hello!👋My name is Neeham Khalid.</h2>
-About me:
 
+About me:
 - 🎓Studying at <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> as a <b>Software Engineer</b> (graduating in Winter 2021).
 - 📜Studied at <a href="https://www.vaniercollege.qc.ca/" target="_blank">Vanier College</a> in <b>Computer Science and Technology</b>.
 - 🔐Passionate about Cybersecurity field.
 - 💻Love exploring new technologies!
 
-* Currently working on: 
-    * **Real-Time Inventory Auditing and Reporting Tool** for FareNexus Group.
-    * Trying Penetration Testing Tools
-    * Setting up various services on my NAS
-    * Graduating😜
+Currently working on: 
+- **Real-Time Inventory Auditing and Reporting Tool** for FareNexus Group.
+- Trying Penetration Testing Tools
+- Setting up various services on my NAS
+- Graduating😜
 
 Tools and Technologies🔧
 -----
