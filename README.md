@@ -17,7 +17,7 @@ About me:
 - 💻Love exploring new technologies!
 
 Currently working on: 
-- **Real-Time Inventory Auditing and Reporting Tool** for FareNexus Group.
+- **Real-Time Inventory Auditing and Reporting Tool** for Farenexus Group.
 - Trying Penetration Testing Tools
 - Setting up various services on my NAS
 - Graduating😜
@@ -30,6 +30,7 @@ Tools and Technologies🔧
 <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali-linux&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=red">
 <br><br>
 <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green">
 <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green">
@@ -59,7 +60,7 @@ Tools and Technologies🔧
 <img src="https://img.shields.io/badge/Tool-Cisco&nbsp;Packer&nbsp;Tracer-informational?style=flat&logo=cisco&logoColor=white&color=orange">
 <br><br>
 <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a">
@@ -74,5 +75,5 @@ GitHub Stats 📈
 -----
 Pretty Accurate: <br>
 ![](https://github-readme-stats.vercel.app/api?username=Neeham&count_private=true&show_icons=true&theme=radical)
-<br><br>Based on my public repo but I've done more C++, Java, Kotlin, Python and TypeScript than PHP as shown in this stats 😜<br>
+<br><br>Based on my public repo but I've done more C++, Java, Kotlin, Python and TypeScript than PHP as shown in this stat😜<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeham)
