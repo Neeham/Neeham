@@ -57,7 +57,7 @@ Tools and Technologies🔧
 <img src="https://img.shields.io/badge/Tool-SonarCloud-informational?style=flat&logo=sonarcloud&logoColor=white&color=orange">
 <img src="https://img.shields.io/badge/Tool-CodeCov-informational?style=flat&logo=codecov&logoColor=white&color=orange">
 <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=orange">
-<img src="https://img.shields.io/badge/Tool-Cisco&nbsp;Packer&nbsp;Tracer-informational?style=flat&logo=cisco&logoColor=white&color=orange">
+<img src="https://img.shields.io/badge/Tool-Cisco&nbsp;Packet&nbsp;Tracer-informational?style=flat&logo=cisco&logoColor=white&color=orange">
 <br><br>
 <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a">
