@@ -29,7 +29,9 @@ Tools and Technologies🔧
 <br><br>
 <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Kali&nbsp;Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=red">
-<img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/OS-Unix-informational?style=flat&logo=Unix&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/OS-Windows&nbsp;10-informational?style=flat&logo=Windows&logoColor=white&color=red">
+<img src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=iOS&logoColor=white&color=red">
 <img src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=red">
 <br><br>
 <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green">
