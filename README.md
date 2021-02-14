@@ -69,6 +69,10 @@ Tools and Technologies🔧
 <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-Prolog-informational?style=flat&logo=prolog&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-LISP-informational?style=flat&logo=lisp&logoColor=white&color=2bbc8a">
+<img src="https://img.shields.io/badge/Code-AspectJ-informational?style=flat&logo=aspectj&logoColor=white&color=2bbc8a">
 </p>
 
 GitHub Stats 📈
