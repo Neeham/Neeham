@@ -12,7 +12,7 @@
 <h2 align="center">Hello!👋My name is Neeham Khalid.</h2>
 
 About me:
-- 🎓Studying at <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> as a <b>Software Engineer</b> (graduating in Winter 2021).
+- 🎓Graduated from <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> as a <b>Software Engineer</b> (graduated in Winter 2021).
 - 📜Studied at <a href="https://www.vaniercollege.qc.ca/" target="_blank">Vanier College</a> in <b>Computer Science and Technology</b>.
 - 🔐Passionate about Cybersecurity field.
 - 💻Love exploring new technologies!
