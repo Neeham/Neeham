@@ -91,11 +91,11 @@ GitHub Stats 📈
 
 <p align="center">
 Pretty Accurate:<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Neeham&count_private=true&show_icons=true&locale=en&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Neeham&&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeham&locale=en&theme=radical" />
 </p>
 
 <p align="center">
 Stats below are based on my public repo but I've done more C++, Java, Kotlin, Python and TypeScript than PHP 😜:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeham&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=neeham&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
